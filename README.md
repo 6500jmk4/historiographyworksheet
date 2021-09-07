@@ -4,5 +4,4 @@ There are many different ways to introduce students to historiography. One of my
 
 The FILES folder contains PDF and ODT versions of the Historiography Worksheet as well as directions for students on how to fill out the worksheet. 
 
-For details on how I use the worksheet in class, see 
-
+For details on how I use the worksheet in class, see "[Taking Notes Using the Historiography Worksheet](https://jasonmkelly.com/jason-m-kelly/2021/9/6/e3cytirnrt8wv7qfwjrdd0y0xe3e9n)."
